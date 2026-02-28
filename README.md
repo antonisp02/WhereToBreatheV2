@@ -2,7 +2,7 @@
 
 A real-time air quality monitoring web application covering **all of Greece**. Users can explore an interactive map, view live AQI data, weather conditions, pollutant breakdowns, and 5-day forecasts for **90+ locations** — making it easy to decide when and where it's safe to be outdoors.
 
-> **Evolution of [WhereToBreathe V1](https://github.com/):** The original version covered only Thessaloniki with static January 2024 data. V2 expands nationwide with live API data, modern UI, and many new features.
+> **Evolution of [WhereToBreathe V1](https://github.com/antonisp02/WhereToBreathe):** The original version covered only Thessaloniki with static January 2024 data. V2 expands nationwide with live API data, modern UI, and many new features.
 
 ---
 
@@ -149,4 +149,8 @@ The app monitors **90+ locations** across all major regions of Greece:
 | **Caching** | None | Local storage cache (15 min TTL) |
 | **UI/UX** | Functional layout | Modern card-based design with CSS variables, transitions |
 | **Language** | English UI | Greek UI (Ελληνικά) |
+
+Screenshot της εφαρμογής:
+
+<img width="1729" height="2214" alt="Screenshot of site" src="https://github.com/user-attachments/assets/7f3e7f0f-f89b-4381-a36a-c5c69b25013b" />
 
